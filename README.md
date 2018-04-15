@@ -52,3 +52,32 @@ optional:
 Suggested citation:
 
 this repository
+
+
+
+
+# construct_gene_expression_plot.py
+This script produces figures for the expression of selected genes across multiple samples. Plots can be generated for raw counts, TPMs, and FPKMs. Resulting plots can be used to analyze the expression of reference genes after normalization.
+
+
+Requirements:
+
+1) Python 2.7.x (other Python 2 versions should work as well) including matplotlib and NumPy
+
+Usage:
+
+python construct_gene_expression_plots.py \
+--candidates <FULL_PATH_TO_CANDIDATE_FILE> \
+--out <FULL_PATH_TO_OUTPUT_DIRECTORY>
+	
+at least one expression data file is required:
+--counts <FULL_PATH_TO_RAW_COUNT_TABLE> \
+--tpms <FULL_PATH_TO_TPM_FILE> \
+--fpkms <FULL_PATH_TO_FPKM_FILE>
+		
+optional:
+--samples <FULL_PATH_TO_SAMPLE_ORDER_FILE>
+
+Suggested citation:
+
+this repository
