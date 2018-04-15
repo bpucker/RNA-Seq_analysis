@@ -71,11 +71,13 @@ python construct_gene_expression_plots.py \
 --out <FULL_PATH_TO_OUTPUT_DIRECTORY>
 	
 at least one expression data file is required:
+
 --counts <FULL_PATH_TO_RAW_COUNT_TABLE> \
 --tpms <FULL_PATH_TO_TPM_FILE> \
 --fpkms <FULL_PATH_TO_FPKM_FILE>
 		
 optional:
+
 --samples <FULL_PATH_TO_SAMPLE_ORDER_FILE>
 
 Suggested citation:
