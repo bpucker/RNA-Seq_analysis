@@ -83,3 +83,22 @@ optional:
 Suggested citation:
 
 this repository
+
+
+# DEG_plot.py
+This script produces figures for differentially expressed genes sorted by the adjusted p-value to illustrate the log2FC. DESeq2 output can be used as input for this script. It is possible to add an additional column to customize gene names. Otherwise, gene IDs will be used as labels.
+
+
+Requirements:
+
+1) Python 2.7.x (other Python 2 versions should work as well) including matplotlib
+
+Usage:
+
+python DEG_plot.py \
+--in <FULL_PATH_TO_INPUT_DIRECTORY> \
+--out <FULL_PATH_TO_OUTPUT_DIRECTORY>
+
+Suggested citation:
+
+this repository
