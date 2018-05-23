@@ -66,7 +66,7 @@ def construct_expression_plot( fig_file, expression, exp_type, candidate, sample
 		all_y_values.append( expression[candidate][ sample ] )
 	
 	# --- add group infos --- #
-	group_off_set = 0
+	group_off_set = -1
 	for group in group_info:
 		x = group_off_set+group['len']+0.5
 		ax.plot( [ x, x ], [ 0, max( all_y_values ) ], linewidth=3, linestyle=":", color="black" )
