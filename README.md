@@ -102,3 +102,53 @@ python DEG_plot.py \
 Suggested citation:
 
 this repository
+
+
+
+
+# get_mapping_stats.py
+All reports of a STAR mapping in one folder are processed. Relevant read numbers are collected and summarized in a single table.
+
+
+Requirements:
+1) python 2.7
+
+
+
+Usage:
+python get_mapping_stats.py \
+--in <FULL_PATH_TO_INPUT_DIRECTORY> \
+--out <FULL_PATH_TO_OUTPUT_FILE>
+
+
+Suggested citation:
+
+this repository
+
+
+
+# reads2counts.py
+All FASTQ files in a given folder are subjected to STAR for read mapping against a given reference sequence. Based on a provided GFF3 file the expression of genes is quantified via featureCounts. 
+
+
+Requirements:
+1) python 2.7
+2) STAR (Dobin, 2013)
+3) featureCounts (Liao, 2014)
+
+Usage:
+python reads2counts2.py \
+--fastq_file_dir <FULL_PATH_TO_DIRECTORY> \
+--tmp_cluster_dir <FULL_PATH_TO_TEMPORARY_DIRECTORY_ON_CLUSTER_VOLUME> \
+--result_dir <FULL_PATH_TO_RESULT_DIRECTORY> \
+--ref_gff_file <FULL_PATH_TO_GFF_FILE_MATCHING_THE_PROVIDED_GENOME> \
+--ref_genome_file <FULL_PATH_TO_GENOME_FILE_MATCHING_THE_PROVIDED_GFF_FILE> \
+				
+ptional:
+--dissimilarity <FLOAT, 1-identity, value between 0.0 and 1.0>[0.05] \
+--length_fraction <FLOAT, value between 0.0 and 1.0>[0.9] \
+--para_jobs <INTEGER, number of jobs to be processed at the compute cluster at the same time>[50]
+
+Suggested citation:
+
+this repository
