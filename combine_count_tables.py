@@ -4,8 +4,8 @@
 
 __usage__ = """
 	python combine_count_tables.py
-	--in <FULL_PATH_INPUT_FILE(S)>
-	(multiple files can be provided comma-separated)
+	--in <FULL_PATH_INPUT_FILE_DIRECTORIES(S)>
+	(multiple directories can be provided comma-separated)
 	--gff <FULL_PATH_TO_GFF3_FILE>
 	--out <FULL_PATH_TO_OUTPUT_FILE>
 					"""
