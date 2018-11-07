@@ -29,7 +29,6 @@ this repository
 
 
 
-
 # find_housekeeping_genes.py
 This script identifies genes with very small variation in expression across multiple samples. Suche genes could be used as reference genes for qRT-PCR experiments. The gene expression file used as input should be in the output format of combine_count_tables.py: header line with different samples names, one row per gene starting with the gene name followed by expression values of the different samples. An annotation file can be provided to add a functional description to each gene in the output file.
 
