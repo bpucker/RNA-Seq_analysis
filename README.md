@@ -1,7 +1,5 @@
 # RNA-Seq_analysis
-scripts for RNA-Seq analysis
-
-
+This is a collection of scripts developed for RNA-Seq analyses.
 
 
 
@@ -152,3 +150,9 @@ ptional:
 Suggested citation:
 
 this repository
+
+
+# References
+Pucker B., Pandey A., Weisshaar B. and Stracke R. (2020). The R2R3-MYB gene family in banana (Musa acuminata): genome-wide identification, classification and expression patterns. bioRxiv 2020.02.03.932046. doi:[10.1101/2020.02.03.932046](https://doi.org/10.1101/2020.02.03.932046).
+
+Haak, M., Vinke, S., Keller, W., Droste, J., Rückert, C., Kalinowski, J., & Pucker, B. (2018). High Quality de novo Transcriptome Assembly of Croton tiglium. Frontiers in Molecular Biosciences, 5. doi:[doi.org/10.3389/fmolb.2018.00062](https://doi.org/10.3389/fmolb.2018.00062).
