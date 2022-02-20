@@ -153,6 +153,8 @@ this repository
 
 
 # References
-Pucker B., Pandey A., Weisshaar B. and Stracke R. (2020). The R2R3-MYB gene family in banana (Musa acuminata): genome-wide identification, classification and expression patterns. bioRxiv 2020.02.03.932046. doi:[10.1101/2020.02.03.932046](https://doi.org/10.1101/2020.02.03.932046).
+Pucker B., Pandey A., Weisshaar B. and Stracke R. (2020). The R2R3-MYB gene family in banana (_Musa acuminata_): genome-wide identification, classification and expression patterns. bioRxiv 2020.02.03.932046. doi:[10.1101/2020.02.03.932046](https://doi.org/10.1101/2020.02.03.932046).
 
-Haak, M., Vinke, S., Keller, W., Droste, J., Rückert, C., Kalinowski, J., & Pucker, B. (2018). High Quality de novo Transcriptome Assembly of Croton tiglium. Frontiers in Molecular Biosciences, 5. doi:[doi.org/10.3389/fmolb.2018.00062](https://doi.org/10.3389/fmolb.2018.00062).
+Haak, M., Vinke, S., Keller, W., Droste, J., Rückert, C., Kalinowski, J., & Pucker, B. (2018). High Quality _de novo_ Transcriptome Assembly of _Croton tiglium_. Frontiers in Molecular Biosciences, 5. doi:[10.3389/fmolb.2018.00062](https://doi.org/10.3389/fmolb.2018.00062).
+
+Pellegrinelli V., Rodriguez-Cuenca S., Rouault C., Schilbert H., Virtue S., Moreno-Navarrete J. M., Bidault G., del Carmen Vazquez Borrego M., Dias A. R., Pucker B., Dale M., Campbell M., Carobbio S., Aron-Wisnewsky J., Mora S., Masiero M., Emmanouilidou A., Mukhopadhyay S., Dougan G., den Hoed M., Loos R., Fernandez-Real J. M., Chiarugi D., Clement K. and Vidal-Puig T. Dysregulation of macrophage PEPD in obesity determines adipose tissue fibro-inflammation and insulin resistance. doi:[10.21203/rs.3.rs-57182.](https://doi.org/10.21203/rs.3.rs-57182/v1)
