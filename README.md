@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/129588151.svg)](https://zenodo.org/badge/latestdoi/129588151)
+
 # RNA-Seq_analysis
 This is a collection of scripts developed for RNA-Seq analyses.
 
