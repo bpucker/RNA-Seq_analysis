@@ -3,7 +3,7 @@ This is a collection of scripts developed for RNA-Seq analyses.
 
 ## Pellegrinelli et al. - PEPD RNA-Seq analyses
 
-The following scripts inside this resporoty were used in Pellegrinelli et al. 2022:
+The following scripts inside this resporoty were used in Pellegrinelli et al.:
 
 reads2counts.py \
 get_mapping_stats.py \
