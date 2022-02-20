@@ -24,9 +24,9 @@ Requirements:
 
 ```
 Usage:
-python construct_DESeq2_input.py
---counts <FULL_PATH_TO_OUTPUT_COUNT_TABLE>
---info <FULL_PATH_TO_SAMPLE_INFO_FILE>
+python construct_DESeq2_input.py \
+--counts <FULL_PATH_TO_OUTPUT_COUNT_TABLE> \
+--info <FULL_PATH_TO_SAMPLE_INFO_FILE> \
 --out <FULL_PATH_TO_OUTPUT_DIRECTORY>
 ```
 
@@ -143,7 +143,7 @@ Usage:
 python get_mapping_stats.py \
 --in <FULL_PATH_TO_INPUT_DIRECTORY> \
 --out <FULL_PATH_TO_OUTPUT_FILE>
-
+```
 
 Suggested citation:
 
