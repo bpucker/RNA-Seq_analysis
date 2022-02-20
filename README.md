@@ -5,13 +5,13 @@ This is a collection of scripts developed for RNA-Seq analyses.
 
 The following scripts inside this resporoty were used in Pellegrinelli et al. 2022:
 
+reads2counts.py
+get_mapping_stats.py
 combine_count_tables.py
 construct_gene_expression_plot.py
-DEG_plot.py
-get_mapping_stats.py
-reads2counts.py
 construct_DESeq2_input.py
 DEG_analysis20181107.R
+DEG_plot.py
 
 Pellegrinelli V., Rodriguez-Cuenca S., Rouault C., Schilbert H., Virtue S., Moreno-Navarrete J. M., Bidault G., del Carmen Vazquez Borrego M., Dias A. R., Pucker B., Dale M., Campbell M., Carobbio S., Aron-Wisnewsky J., Mora S., Masiero M., Emmanouilidou A., Mukhopadhyay S., Dougan G., den Hoed M., Loos R., Fernandez-Real J. M., Chiarugi D., Clement K. and Vidal-Puig T. Dysregulation of macrophage PEPD in obesity determines adipose tissue fibro-inflammation and insulin resistance. doi:[10.21203/rs.3.rs-57182.](https://doi.org/10.21203/rs.3.rs-57182/v1)
 
