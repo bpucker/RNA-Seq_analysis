@@ -10,14 +10,14 @@ This script combines all count tables given in the provided folders. It is assum
 Requirements:
 
 1) Python 2.7.x (other Python 2 versions should work as well)
-
+```
 Usage:
 
 python combine_count_tables.py \
 --in <FULL_PATH_INPUT_FILE(S)> (multiple paths can be provided comma-separated) \
 --gff <FULL_PATH_TO_GFF3_FILE> \
 --out <FULL_PATH_TO_OUTPUT_FILE>
-
+```
 
 Suggested citation:
 
