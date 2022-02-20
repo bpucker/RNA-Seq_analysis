@@ -2,7 +2,7 @@
 This is a collection of scripts developed for RNA-Seq analyses.
 
 # reads2counts.py
-All FASTQ files in a given folder are subjected to STAR for read mapping against a given reference sequence. Based on a provided GFF3 file the expression of genes is quantified via featureCounts. 
+All FASTQ files in a given folder are subjected to STAR for read mapping against a given reference sequence. Based on a provided GFF3 file the expression of genes is quantified via featureCounts. This script is customized for a specific compute cluster and will most likely not work elsewhere. It is included for documentation purposes.
 
 Requirements:
 1) python 2.7
